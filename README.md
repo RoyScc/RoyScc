@@ -32,5 +32,5 @@ Soy un desarrollador de software en etapa de graduación, enfocado en crear solu
 
 ### 📫 Contacto
 
-[![LinkedIn](www.linkedin.com/in/roy-scheurer-431594383)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/roy-scheurer-431594383)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.scheurer9@gmail.com)
