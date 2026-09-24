@@ -16,21 +16,7 @@ Soy un desarrollador de software en etapa de graduación, enfocado en crear solu
 
 ---
 
-### 🚀 Proyectos Destacados
-
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RoyScc&show_icons=true&theme=radium&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyScc&layout=compact&theme=radium&hide_border=true" />
-</div>
-
----
-
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/roy-scheurer-431594383)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roy-scheurer-431594383)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.scheurer9@gmail.com)
